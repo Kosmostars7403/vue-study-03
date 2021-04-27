@@ -1,4 +1,6 @@
-# vue-study-03
+# Freelance tasks manager
+
+This project was created for educational purposes. [demo](https://vue-study-daf71.web.app/)
 
 ## Project setup
 ```
