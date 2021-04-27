@@ -34,7 +34,7 @@ export default {
     status.class = classesMap[props.type]
     status.name = nameMap[props.type]
 
-    watch(props, val => {
+    watch(props, () => {
       status.class = classesMap[props.type]
       status.name = nameMap[props.type]
     })
